@@ -33,4 +33,4 @@ echo $image->compare(__DIR__ . '/image2-resize.jpg',__DIR__ . '/image2.jpg');
 ?>
 ```
 
-Originally taken from https://www.phpclasses.org/package/8255-PHP-Compare-two-images-to-find-if-they-are-similar.html and added to ```Composer```
+Originally taken from https://www.phpclasses.org/package/8255-PHP-Compare-two-images-to-find-if-they-are-similar.html and name-spaced and added to ```Composer```

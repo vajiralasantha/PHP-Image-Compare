@@ -1,0 +1,23 @@
+{
+    "name": "vajiral/php-image-compare",
+    "description": "A light weight PHP class that can compare two (jpg/png) images to find if they are similar.",
+    "keywords": ["image", "lightweight", "PHP library", "image compare", "jpg", "png"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vajira Lasantha",
+            "email": "vajee555@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^5.5.9 || ^7.0",
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "BigV\\": "src/"
+        }
+    }
+}

@@ -7,7 +7,7 @@ Usage:
 
 Install via composer
 
-```"vajiral/php-image-compare": "1.0.0"```
+```"vajiral/php-image-compare": "1.0.1"```
 
 In your PHP file
 
